@@ -1,0 +1,9 @@
+.main_content h1{
+    font-size: 48px;
+    font-weight: bold;  
+}
+
+.main_content p{
+    color: rgb(41, 41, 41);
+    font-weight: 500;
+}
