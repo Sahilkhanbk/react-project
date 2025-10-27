@@ -6,7 +6,6 @@ function App() {
 
 
 
-
   const [length, setLength] = useState(8);
   const [numberAllow, setnumberAllow] = useState(false);
   const [characterAll, setcharacterAll] = useState(false);
