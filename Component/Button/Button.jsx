@@ -4,7 +4,6 @@ import styles from './Button.module.css'
 
 
 
-
 function Button({ isOutline, icon, text, ...rest }) {
     return (
         <button
@@ -17,6 +16,7 @@ function Button({ isOutline, icon, text, ...rest }) {
 }
 
 export default Button
+
 
 
 
