@@ -3,7 +3,6 @@ import './App.css'
 import InputBox from './components/InputBox'
 import useCurrency from './hooks/useCurrency'
 
-
 function App() {
 
   const [amount, setAmount] = useState(0)
