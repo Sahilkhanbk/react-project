@@ -7,7 +7,6 @@ import Card from './components/Card'
 
 
 
-
 function App() {
   const [themeMode, setthemeMode] = useState("light")
 
